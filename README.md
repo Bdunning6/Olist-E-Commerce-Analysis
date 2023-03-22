@@ -1,13 +1,24 @@
 # Olist-E-Commerce-Analysis
 
 ## Table of Contents
-1. [Link to Published Dashboard](#link-to-published-dashboard)
-2. [Introduction](#introduction)
-3. [Dataset](#dataset)
-4. [SQL Code](#sql-code)
-5. [Visualizations](#visualizations)
-6. [Summary](#summary)
+1. [Introduction](#introduction)
+2. [Dataset](#dataset)
+3. [SQL Code](#sql-code)
+4. [Visualizations](#visualizations)
+5. [Summary](#summary)
 
 
-## Link to Published Dashboard
-[Link to Published Dashboard](https://app.powerbi.com/groups/ec280147-b21d-47d5-9dd9-0c3563bbde5c/reports/5ded60d6-8e8e-48f8-bcf0-d0f2f9f691b0/ReportSection)
+## Introduction
+Olist is an online e-commerce platform that operates out of Brazil allowing for sellers to offer a variety of products to customers. Through this project, I will analyze an Olist data set in order to answer the following four questions:
+
+1. How did Olist perform sales wise? Where is Olist the most successful?
+
+2. Where in does Olist perform poorly in Brazil? Why? 
+
+3. What products are the most popular? Which products recieve the most sales?
+
+4. How well reviewed are Olist products? Can the delivery length of an item positively or negatively affect reviews?
+
+
+## SQL Code
+
