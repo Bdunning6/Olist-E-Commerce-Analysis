@@ -13,7 +13,7 @@ Olist is an online e-commerce platform that operates out of Brazil allowing for 
 
 1. How did Olist perform sales in sales? Where is Olist the most successful?
 
-2. Where in does Olist perform poorly in Brazil? Why? 
+2. Where in does Olist perform poorly in Brazil? Why are sales lower in other certain regions and states? 
 
 3. What products are the most popular? Which products recieve the most sales?
 
@@ -180,4 +180,8 @@ From September 2016 to October 2018, Olist had a total of 99,440 orders and $16,
 
 **Question 2: Why are Sales Lower in Other Regions?**
 
-We can see that Olist performed well in the South East and South regions, but why were sales lower in the other regions of Brazil? The main reason could be that the prices on average are much higher in the North, North East and Central regions compared to the South and South Eastern regions. We can see that Paraiba had the highest average price of $191.48 while São Paulo had the lowest average price of $109.65. One reason price could be higher is due to higher shipping costs. Olist is based in the state of Paraná which is in the Southern region of Brazil. This gives Olist close proximity to one of the most populated regions of Brazil, the South Eastern region. Looking further into shipping costs, we can see that the average shipping costs for all of Brazil is about $20, while the South East Average shipping cost is $17.36. The other regions and states hold much higher shipping costs. The average shipping cost in the North is 36.84, 32.07 in the North East and 23.08 in the Central region.
+We can see that Olist performed well in the South East and South regions, but why were sales lower in the other regions of Brazil? The main reason could be that the prices on average are much higher in the North, North East and Central regions compared to the South and South Eastern regions. We can see that Paraiba had the highest average price of $191.48 while São Paulo had the lowest average price of $109.65. São Paulo had the lowest average shipping costs at $15.15 while Roraima had the highest average shipping cost at $42.98 One reason price could be higher is due to higher shipping costs. Olist is based in the state of Paraná which is in the Southern region of Brazil. This gives Olist close proximity to one of the most populated regions of Brazil, the South Eastern region. Looking further into shipping costs, we can see that the average shipping costs for all of Brazil is about $20, while the South East Average shipping cost is $17.36. The other regions and states hold much higher shipping costs. The average shipping cost in the North is 36.84, 32.07 in the North East and 23.08 in the Central regions. The higher shipping costs could be due to distance from the region/state Olist is based in. The longer the distance traveled, the more higher the shipping costs. 
+
+**Question 3: What products are the most popular? Which products recieve the most sales?
+
+
