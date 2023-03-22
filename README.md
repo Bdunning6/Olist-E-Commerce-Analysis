@@ -20,5 +20,11 @@ Olist is an online e-commerce platform that operates out of Brazil allowing for 
 4. How well reviewed are Olist products? Can the delivery length of an item positively or negatively affect reviews?
 
 
+## Dataset 
+The dataset holds around a 100,000 orders from 2016 to 2018. It is made up of a schema that holds 9 tables. The 9 tables are:
+
+*
+
+
 ## SQL Code
 
