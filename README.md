@@ -83,4 +83,78 @@ The dataset holds around a 100,000 orders from 2016 to 2018. It is made up of a 
 ![image](https://user-images.githubusercontent.com/115194266/227032279-773b1b3a-c05c-48c2-a083-156bc67b3363.png)
 
 ### Output
+![image](https://user-images.githubusercontent.com/115194266/227032522-b58bb5a9-ead1-4950-9ae1-85f4406b972d.png)
+
+### Looking at the most ordered products.
+![image](https://user-images.githubusercontent.com/115194266/227032657-a706f8b1-a981-4b1d-88d6-0a22670ba58f.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227032765-fa3509ca-c339-4ef7-af83-7b6b7bf6988e.png)
+
+### Total sales value and count for each category of product. Ordered by total sales value.
+![image](https://user-images.githubusercontent.com/115194266/227032891-1d314a83-88f2-4b47-a65c-953f4632b288.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227032994-d4698224-3dfa-4484-83fd-58946c631390.png)
+
+### What are the average shipping/freight costs for each state?
+![image](https://user-images.githubusercontent.com/115194266/227033060-ad14b72b-8ff1-40af-9288-ab34e2d9ae6d.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227033139-79d3ea8c-fea9-4334-8fc1-d8674c16dc7d.png)
+
+### Looking at the sellers with the highest number of sales on Olist and their most sold product.
+![image](https://user-images.githubusercontent.com/115194266/227033568-209e4bbd-4e5e-43f3-9f21-67cf41086db4.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227033485-9c917a7a-68a0-415c-805f-1651359186c0.png)
+
+### What's average review score rating on Olist?
+![image](https://user-images.githubusercontent.com/115194266/227033658-6ce41c59-a255-426e-97df-a9f952e443d2.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227033725-9e0ad009-b282-4b12-9a3f-7797fc1b45d4.png)
+
+### Using a case function to find out if a product ordered arrived before or after the estimated delivery date.
+![image](https://user-images.githubusercontent.com/115194266/227033835-47445788-85ce-4518-b237-25fed5c4d343.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227033920-e3298470-f6bf-457b-9f6d-997d1d67b995.png)
+
+### AVG difference between estimated and actual delivery date.
+![image](https://user-images.githubusercontent.com/115194266/227034025-94dacae0-22fd-4397-858e-308370201a67.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227034119-7aff67c8-3481-48bb-a462-e1387203853a.png)
+
+### Do the reviews reflect negatively on the the item arriving later then estimated?
+![image](https://user-images.githubusercontent.com/115194266/227034205-57faf39d-6890-4490-b6fe-f76e49e01818.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227034298-4ce7ac7b-d846-48cd-9ba3-e3288bd646ad.png)
+
+### Are the reviews better for orders than arrived before the estimated arrival date?
+![image](https://user-images.githubusercontent.com/115194266/227034416-971301a9-7c77-419a-ab90-178056ba17cb.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227034587-65f08426-f725-4c86-92b8-1087d8f2061f.png)
+
+### A view that shows which orders came before or after the estimated delivery time. 
+![image](https://user-images.githubusercontent.com/115194266/227034728-6d149e31-db5e-4299-b4d7-2afd0e14f181.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227034976-6a6b53dc-c1ce-4271-bef8-7f1a2b7d29cf.png)
+
+### Second view that shows the difference between the estimated and actual delivery date along with the review_score. 
+![image](https://user-images.githubusercontent.com/115194266/227035091-ff1c6971-65ec-4c96-9e55-d83e27af96eb.png)
+
+### Output
+![image](https://user-images.githubusercontent.com/115194266/227035162-7a712fe3-47e4-48db-83f6-1c2ec2db9b36.png)
+
+
+## Visualizations 
+
+
+
+
 
