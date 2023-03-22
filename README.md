@@ -174,7 +174,6 @@ The dataset holds around a 100,000 orders from 2016 to 2018. It is made up of a 
 
 ## Summary 
 
-Question 1: How did Olist perform sales in sales? Where is Olist the most successful?
+**Question 1: How did Olist perform sales in sales? Where is Olist the most successful?**
 
-From September 2016 to October 2018, Olist had a total of 99
-
+From September 2016 to October 2018, Olist had a total of 99,440 orders and $16,008,872 in sales. The average product sale was $154.00. November 2017 saw the highest number of orders aswell as the highest number of sales. There were 7863 orders and $1,194,820 in sales for the month. The high increase in orders and sales could be due to a high increase in E-commerce due to Black Friday shopping. The South Eastern region dominated in sales and orders compared to all the other regions. The South East Region had 68,265 orders, which is about 68.6% of all orders. This region also made $10.34 million out of the total $16.00 million in sales. Looking at the top states in terms of total orders and sales Examining each state, we can see that São Paulo had the most orders and sales out of every state in Brazil with about 42,000 orders and $6 million in total sales. 
