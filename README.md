@@ -11,7 +11,7 @@
 ## Introduction
 Olist is an online e-commerce platform that operates out of Brazil allowing for sellers to offer a variety of products to customers. Through this project, I will analyze an Olist data set in order to answer the following four broad questions:
 
-1. How did Olist perform sales wise? Where is Olist the most successful?
+1. How did Olist perform sales in sales? Where is Olist the most successful?
 
 2. Where in does Olist perform poorly in Brazil? Why? 
 
@@ -172,5 +172,9 @@ The dataset holds around a 100,000 orders from 2016 to 2018. It is made up of a 
 ![image](https://user-images.githubusercontent.com/115194266/227039863-5a1b7dd7-9ec3-4dd9-9d03-132de304a675.png)
 
 
+## Summary 
 
+Question 1: How did Olist perform sales in sales? Where is Olist the most successful?
+
+From September 2016 to October 2018, Olist had a total of 99
 
