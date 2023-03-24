@@ -1,4 +1,5 @@
 # Olist-E-Commerce-Analysis-Project
+![image](https://user-images.githubusercontent.com/115194266/227637365-07170c78-d2bd-421b-885f-200b4a05af63.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
