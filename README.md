@@ -1,4 +1,4 @@
-# Olist-E-Commerce-Analysis
+# Olist-E-Commerce-Analysis-Project
 
 ## Table of Contents
 1. [Introduction](#introduction)
