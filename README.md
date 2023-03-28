@@ -159,19 +159,19 @@ The dataset holds around a 100,000 orders from 2016 to 2018. It is made up of a 
 [Link to Published Dashboard](https://app.powerbi.com/groups/ec280147-b21d-47d5-9dd9-0c3563bbde5c/reports/5ded60d6-8e8e-48f8-bcf0-d0f2f9f691b0/ReportSection)
 
 ### Olist Sales Performance Overview
-![image](https://user-images.githubusercontent.com/115194266/227039046-7d844287-c44f-4986-ad0a-08d749c451f5.png)
+![image](https://user-images.githubusercontent.com/115194266/228364140-3fbf9828-d432-4ddf-aff2-44c8a13a0a74.png)
 
 
-### Why Are Sales Lower in Other Regions?
-![image](https://user-images.githubusercontent.com/115194266/227039476-199a246a-9a39-4371-acea-2c501b8792bb.png)
+### Why Are Sales Lower in Other Regions/States?
+![image](https://user-images.githubusercontent.com/115194266/228364272-9e194643-a53f-4ebd-a633-32745a1d85d4.png)
 
 
 ### Olist Product Orders Overview
-![image](https://user-images.githubusercontent.com/115194266/227039691-d48379d3-ec41-4bf7-a99d-36f88520c472.png)
+![image](https://user-images.githubusercontent.com/115194266/228364319-3e1970da-4314-45a1-b267-9f92e023302a.png)
 
 
 ### Olist Customer Shipment and Reviews
-![image](https://user-images.githubusercontent.com/115194266/227039863-5a1b7dd7-9ec3-4dd9-9d03-132de304a675.png)
+![image](https://user-images.githubusercontent.com/115194266/228364367-9144d51a-4543-43f3-8bb4-e28083ccacc2.png)
 
 
 ## Summary 
