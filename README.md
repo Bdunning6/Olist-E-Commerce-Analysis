@@ -12,13 +12,13 @@
 ## Introduction
 Olist is an e-commerce platform based in Brazil that enables sellers to offer a wide range of products to customers. In this project, I will analyze an Olist dataset to evaluate the company's performance and gain insights into the Brazilian e-commerce market. To achieve this, I will focus on answering four key questions:
 
-What are Olist's sales performance metrics, and where is the company most successful in Brazil?
+1. What are Olist's sales performance metrics, and where is the company most successful in Brazil?
 
-Which regions and states in Brazil have lower sales for Olist, and what factors contribute to this trend?
+2. Which regions and states in Brazil have lower sales for Olist, and what factors contribute to this trend?
 
-What are the most popular product categories on Olist, and which categories generate the highest sales?
+3. What are the most popular product categories on Olist, and which categories generate the highest sales?
 
-How do customers review Olist products, and does the delivery length of an item affect these reviews positively or negatively?
+4. How do customers review Olist products, and does the delivery length of an item affect these reviews positively or negatively?
 
 In addition to addressing these questions, I will also explore other relevant insights about the Brazilian e-commerce market and Olist's performance. Through this project, I aim to leverage my analytical skills and tools such as SQL and Power BI to derive meaningful insights that can help drive business success.
 
