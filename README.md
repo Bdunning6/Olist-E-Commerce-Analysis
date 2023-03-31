@@ -12,20 +12,20 @@
 ## Introduction
 Olist is an e-commerce platform based in Brazil that enables sellers to offer a wide range of products to customers. In this project, I will analyze an Olist dataset to evaluate the company's performance and gain insights into the Brazilian e-commerce market. To achieve this, I will focus on answering four key questions:
 
-1. What are Olist's sales performance metrics, and where is the company most successful in Brazil?
+1. What are Olist's sales performance metrics and where is the company most successful in Brazil?
 
-2. Which regions and states in Brazil have lower sales for Olist, and what factors contribute to this trend?
+2. Which regions and states in Brazil have lower sales for Olist? And what factors contribute to this trend?
 
-3. What are the most popular product categories on Olist, and which categories generate the highest sales?
+3. What are the most popular product categories on Olist? And which categories generate the highest sales?
 
-4. How do customers review Olist products, and does the delivery length of an item affect these reviews positively or negatively?
+4. How do customers review Olist products? And does the delivery length of an item affect these reviews positively or negatively?
 
 In addition to addressing these questions, I will also explore other relevant insights about the Brazilian e-commerce market and Olist's performance. Through this project, I aim to leverage my analytical skills and tools such as SQL and Power BI to derive meaningful insights that can help drive business success.
 
 
 
 ## Dataset 
-The dataset holds around a 100,000 orders from 2016 to 2018. It is made up of a schema that holds 9 tables. The 9 tables are:
+The dataset holds around 100,000 orders from 2016 to 2018. It is made up of a schema that holds nine tables. The nine tables are:
 
 * olist_order_reviews_dataset
 * olist_orders_dataset
@@ -75,7 +75,7 @@ The dataset holds around a 100,000 orders from 2016 to 2018. It is made up of a 
 ### Output
 ![image](https://user-images.githubusercontent.com/115194266/227031771-082219ab-c1a8-47c3-8641-55887d045251.png)
 
-### Which cities had the largest amount of orders and which states did they belong to?
+### Which cities had the largest amount of orders? And which states did they belong to?
 ![image](https://user-images.githubusercontent.com/115194266/227031949-6f953b5d-d8f3-4245-88a7-b3b447c20ce6.png)
 
 ### Output
@@ -99,19 +99,19 @@ The dataset holds around a 100,000 orders from 2016 to 2018. It is made up of a 
 ### Output
 ![image](https://user-images.githubusercontent.com/115194266/227032994-d4698224-3dfa-4484-83fd-58946c631390.png)
 
-### What are the average shipping/freight costs for each state?
+### What are the average shipping costs for each state?
 ![image](https://user-images.githubusercontent.com/115194266/227033060-ad14b72b-8ff1-40af-9288-ab34e2d9ae6d.png)
 
 ### Output
 ![image](https://user-images.githubusercontent.com/115194266/227033139-79d3ea8c-fea9-4334-8fc1-d8674c16dc7d.png)
 
-### Looking at the sellers with the highest number of sales on Olist and their most sold product.
+### Looking at the sellers with the highest number of sales on Olist and their most-sold product.
 ![image](https://user-images.githubusercontent.com/115194266/227033568-209e4bbd-4e5e-43f3-9f21-67cf41086db4.png)
 
 ### Output
 ![image](https://user-images.githubusercontent.com/115194266/227033485-9c917a7a-68a0-415c-805f-1651359186c0.png)
 
-### What's average review score rating on Olist?
+### What's average review rating on Olist?
 ![image](https://user-images.githubusercontent.com/115194266/227033658-6ce41c59-a255-426e-97df-a9f952e443d2.png)
 
 ### Output
@@ -123,19 +123,19 @@ The dataset holds around a 100,000 orders from 2016 to 2018. It is made up of a 
 ### Output
 ![image](https://user-images.githubusercontent.com/115194266/227033920-e3298470-f6bf-457b-9f6d-997d1d67b995.png)
 
-### AVG difference between estimated and actual delivery date.
+### AVG difference between the estimated and actual delivery dates.
 ![image](https://user-images.githubusercontent.com/115194266/227034025-94dacae0-22fd-4397-858e-308370201a67.png)
 
 ### Output
 ![image](https://user-images.githubusercontent.com/115194266/227034119-7aff67c8-3481-48bb-a462-e1387203853a.png)
 
-### Do the reviews reflect negatively on the the item arriving later then estimated?
+### Do the reviews reflect negatively on the item arriving later estimated?
 ![image](https://user-images.githubusercontent.com/115194266/227034205-57faf39d-6890-4490-b6fe-f76e49e01818.png)
 
 ### Output
 ![image](https://user-images.githubusercontent.com/115194266/227034298-4ce7ac7b-d846-48cd-9ba3-e3288bd646ad.png)
 
-### Are the reviews better for orders than arrived before the estimated arrival date?
+### Are the reviews better for orders that arrived before the estimated arrival date?
 ![image](https://user-images.githubusercontent.com/115194266/227034416-971301a9-7c77-419a-ab90-178056ba17cb.png)
 
 ### Output
@@ -147,7 +147,7 @@ The dataset holds around a 100,000 orders from 2016 to 2018. It is made up of a 
 ### Output
 ![image](https://user-images.githubusercontent.com/115194266/227034976-6a6b53dc-c1ce-4271-bef8-7f1a2b7d29cf.png)
 
-### Second view that shows the difference between the estimated and actual delivery date along with the review_score. 
+### Second view shows the difference between the estimated and actual delivery dates along with the review score.
 ![image](https://user-images.githubusercontent.com/115194266/227035091-ff1c6971-65ec-4c96-9e55-d83e27af96eb.png)
 
 ### Output
