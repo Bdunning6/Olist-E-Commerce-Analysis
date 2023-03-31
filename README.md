@@ -159,30 +159,30 @@ The dataset holds around 100,000 orders from 2016 to 2018. It is made up of a sc
 [Link to Published Dashboard](https://app.powerbi.com/groups/ec280147-b21d-47d5-9dd9-0c3563bbde5c/reports/5ded60d6-8e8e-48f8-bcf0-d0f2f9f691b0/ReportSection)
 
 ### Olist Sales Performance Overview
-![image](https://user-images.githubusercontent.com/115194266/228364140-3fbf9828-d432-4ddf-aff2-44c8a13a0a74.png)
+![image](https://user-images.githubusercontent.com/115194266/229244840-3cd45d7e-f55f-40b6-819b-93d7d6d81f96.png)
 
 
 ### Why Are Sales Lower in Other Regions/States?
-![image](https://user-images.githubusercontent.com/115194266/228364272-9e194643-a53f-4ebd-a633-32745a1d85d4.png)
+![image](https://user-images.githubusercontent.com/115194266/229244869-ca91b482-79e4-4dca-92a2-2d9a7dd20c51.png)
 
 
 ### Olist Product Orders Overview
-![image](https://user-images.githubusercontent.com/115194266/228364319-3e1970da-4314-45a1-b267-9f92e023302a.png)
+![image](https://user-images.githubusercontent.com/115194266/229244936-a5ead0d8-6edc-4e12-9d17-0015898e26ca.png)
 
 
 ### Olist Customer Shipment and Reviews
-![image](https://user-images.githubusercontent.com/115194266/228364367-9144d51a-4543-43f3-8bb4-e28083ccacc2.png)
+![image](https://user-images.githubusercontent.com/115194266/229244963-171f1505-2ab4-452e-9632-ab9981c86db4.png)
 
 
 ## Summary 
 
-**Question 1: How did Olist perform sales in sales? Where is Olist the most successful?**
+**Question 1: How did Olist perform in sales? Where is Olist the most successful?**
 
-From September 2016 to October 2018, Olist had a total of 99,440 orders and $16,008,872 in sales. The average product sale was $154.00. November 2017 saw the highest number of orders as well as the highest number of sales. There were 7863 orders and $1,194,820 in sales for the month. The high increase in orders and sales could be due to a high increase in E-commerce due to Black Friday shopping. The Southeastern region dominated in sales and orders compared to all the other regions. The Southeast Region had 68,265 orders, which is about 68.6% of all orders. This region also made $10.34 million out of the total $16.00 million in sales. Looking at the top states in terms of total orders and sales, we can see São Paulo, Rio de Janeiro and Minas Gerias are the top 3 states and are all a part of the Southeast region. With further examination we can see that São Paulo had the most orders and sales out of every state in Brazil with about 42,000 orders and $6 million in total sales. 
+From September 2016 to October 2018, Olist processed a total of 99,440 orders, resulting in $16,008,872 in sales. Interestingly, the average product sale was $154.00. In November 2017, the company recorded the highest number of orders, with 7863 orders and $1,194,820 in sales for the month. This surge in orders and sales may be attributed to the Black Friday shopping event that drives high e-commerce sales. Upon analyzing sales by region, the Southeastern region emerged as the leader in both orders and sales, with 68,265 orders, making up approximately 68.6% of all orders, and generating $10.34 million in sales, out of the total $16.00 million in sales. When examining the top states in terms of total orders and sales, it becomes clear that São Paulo, Rio de Janeiro, and Minas Gerias are the top three states and are all part of the Southeast region. São Paulo emerges as the most lucrative state in Brazil with approximately 42,000 orders and $6 million in total sales.
 
 **Question 2: Why are Sales Lower in Other Regions?**
 
-We can see that Olist performed well in the Southeast and South regions, but why were sales lower in the other regions of Brazil? The main reason could be that the prices on average are much higher in the North, Northeast and Central regions compared to the South and Southeastern regions. We can see that Paraiba had the highest average price of $191.48 while São Paulo had the lowest average price of $109.65. São Paulo had the lowest average shipping costs at $15.15 while Roraima had the highest average shipping cost at $42.98. One reason the price could be higher is due to higher shipping costs. Olist is based in the state of Paraná which is in the Southern region of Brazil. This gives Olist proximity to one of the most populated regions of Brazil, the Southeastern region. Looking further into shipping costs, we can see that the average shipping costs for all of Brazil is about $20, while the Southeast Average shipping cost is $17.36. The other regions and states hold much higher shipping costs. The average shipping cost in the North is 36.84, 32.07 in the Northeast and 23.08 in the Central regions. The higher shipping costs could be due to distance from the region/state Olist is based in. The longer the distance traveled, the higher the shipping costs. 
+To better understand Olist's sales performance across Brazil, we need to examine the price differences across different regions. While Olist has performed well in the Southeast and South regions, sales in the other regions of Brazil have been lower. This could be due to the fact that average prices are much higher in the North, Northeast, and Central regions, compared to the South and Southeastern regions. For instance, Paraiba has the highest average price of $191.48, while São Paulo has the lowest average price of $109.65. It is also important to consider shipping costs, with São Paulo having the lowest average shipping costs of $15.15, while Roraima had the highest at $42.98. This could explain why the price is higher, as higher shipping costs impact the final price of the product. As Olist is based in the state of Paraná in the Southern region, it is closer to the most populated regions of Brazil, the Southeastern region, which may account for its higher sales in these regions. Looking further into shipping costs, the average shipping cost for all of Brazil is around $20, while the Southeast's average shipping cost is $17.36. In contrast, the other regions and states have much higher shipping costs, with the average shipping cost being $36.84 in the North, $32.07 in the Northeast, and $23.08 in the Central regions. These higher shipping costs could be due to the distance from Olist's base, with longer distances resulting in higher shipping costs.
 
 **Question 3: What products categories are the most popular? Which products categories receive the most sales?**
 
