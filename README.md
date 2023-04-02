@@ -8,6 +8,7 @@
 4. [Visualizations](#visualizations)
 5. [Summary](#summary)
 
+### My entire portfolio can be found [here](https://github.com/Bdunning6/Portfolio).
 
 ## Introduction
 Olist is an e-commerce platform based in Brazil that enables sellers to offer a wide range of products to customers. In this project, I will analyze an Olist dataset to evaluate the company's performance and gain insights into the Brazilian e-commerce market. To achieve this, I will focus on answering four key questions:
